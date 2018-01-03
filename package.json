@@ -1,0 +1,22 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "description": "A test example on using node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boscoybarra/leaderboard-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boscoybarra/leaderboard-example/issues"
+  },
+  "homepage": "https://github.com/boscoybarra/leaderboard-example#readme",
+  "dependencies": {
+    "iota.lib.js": "^0.4.6"
+  }
+}
