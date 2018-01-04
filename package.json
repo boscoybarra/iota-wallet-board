@@ -1,4 +1,8 @@
 {
+  "dependencies": {
+    "iota.lib.js": "^0.4.6",
+    "web3": "0.17.0-alpha"
+  },
   "name": "leaderboard",
   "version": "1.0.0",
   "description": "A test example on using node ",
@@ -15,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/boscoybarra/leaderboard-example/issues"
   },
-  "homepage": "https://github.com/boscoybarra/leaderboard-example#readme",
-  "dependencies": {
-    "iota.lib.js": "^0.4.6"
-  }
+  "homepage": "https://github.com/boscoybarra/leaderboard-example#readme"
 }
